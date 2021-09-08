@@ -1,0 +1,45 @@
+*{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+body {
+    background-color: rgb(0, 0, 255);
+}
+
+main {
+    background-color: white;
+    width: 500px;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
+}
+p{
+    text-align: justify;
+}
+h2#titulo2 {
+    text-align: center;
+    font-size: 20px;
+}
+p#conteudo2 {
+    text-align: justify;
+   
+}
+
+h1#titulo1{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img.lado{
+    float: right;
+    width: 100px;
+}
+footer{
+    background-color: white;
+    width: 500px;
+    margin: 10px auto;
+    padding: 10px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
+}
